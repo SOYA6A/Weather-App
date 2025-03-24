@@ -10,3 +10,10 @@ Elle utilise l'API OpenWeatherMap pour obtenir des données météorologiques.
 - Description et icône de la météo actuelle.
 - Prévisions horaires pour les 24 prochaines heures.
 - Interface utilisateur intuitive et réactive.
+
+## Technologies utilisées
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- API OpenWeatherMap
