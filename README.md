@@ -7,7 +7,7 @@ Elle utilise l'API OpenWeatherMap pour obtenir des données météorologiques.
 ## Fonctionnalités
 
 - 🌡️ Affichage de la température actuelle en °C.
-- Description et icône de la météo actuelle.
+- ❄️ Description et icône de la météo actuelle.
 - Prévisions horaires pour les 24 prochaines heures.
 - Interface utilisateur intuitive et réactive.
 
